@@ -1,0 +1,86 @@
+
+	
+
+ body {
+ 	
+ 	text-align: center;
+ 	font-family: 'Lora', serif;
+ 	}
+
+
+ 	h1 { 
+ 	 color: red;
+ 	}
+    p {
+	color: white;
+    }
+
+    h2 { 
+ 	 color: black;
+ 	}
+
+ 	h3 {
+ 		color: blue;
+
+ 	} 
+ 	h4 {
+ 		color:green;
+ 	}
+
+ 	.card-red {
+ 		background-color: rgba(0,0,0,0.2);
+ 		border: 10px white solid;
+ 		border-radius: 40px;
+ 		margin:15px 35px;
+        background-image:url(images/therock.jpg);
+ 	}
+
+ 	h5 {
+ 		color:white;
+ 	}
+
+ 	#avatar {
+ 		border-radius: 50%; 
+ 		border: 2px solid white; 
+ 	}
+
+ 	#lamas {
+
+ 	border-radius: 50%;
+ 	border: 2px solid pink;
+ 	}
+
+ 	#lama2 {
+ 		border-radius: 50%;
+ 		border:2px solid pink;
+ 		width: 400px;
+ 		height: 400px;
+ 	}
+
+ 	h6 {
+ 		color: pink;
+ 	}
+
+a { 
+color: orange
+ }
+
+ 	.marchaut {
+ 		background-color: rgba(0,0,0,0.2);
+ 		border: 10px white solid;
+ 		border-radius: 40px;
+ 		margin:15px 35px;
+        background-image:url(images/IMG_5948.jpg);
+        background-size: cover;
+          }
+  .mm {
+  	background-image: url(images/arton104636.jpg);
+  	background-color: rgba(0,0,0,0.2);
+ 		border: 10px white solid;
+ 		border-radius: 40px;
+ 		margin:15px 35px;
+ 		background-size: cover;
+ 		background-position: center;
+ 		height: 600px;
+  }
+      
